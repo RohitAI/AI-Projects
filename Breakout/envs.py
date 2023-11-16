@@ -8,7 +8,6 @@ from gym.spaces.box import Box
 from gym import wrappers
 
 
-# Taken from https://github.com/openai/universe-starter-agent
 
 
 def create_atari_env(env_id, video=False):
